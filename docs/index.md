@@ -437,11 +437,12 @@ body {
       class="btn-writeup"
       href="maquinas/pentest-ad.html"
     >
-      Ver informe
-    </a>
+    Ver informe
+        </a>
+      </div>
+    </div>
   </div>
-</div>
-</div>
+
   <div class="warning-box">
     <strong>Aviso de uso:</strong>
     todo el contenido publicado corresponde a laboratorios controlados,
