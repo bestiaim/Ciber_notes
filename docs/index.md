@@ -327,6 +327,49 @@ body {
     </div>
   </div>
 
+  <div class="machine-card">
+    <img src="assets/img/cards/pentest-ad.png" alt="Pentest Active Directory">
+
+    <div class="machine-content">
+      <h2>
+        <a href="https://bestiaim.github.io/Pentest-AD-Laboratorio/">
+          Pentest Active Directory - Laboratorio
+        </a>
+      </h2>
+
+      <p>
+        Informe técnico anonimizado de una prueba de penetración sobre un entorno
+        Active Directory controlado. El laboratorio documenta la exposición de respaldos
+        web, extracción de información mediante esteganografía, enumeración anónima de
+        LDAP y RPC, AS-REP Roasting, Kerberoasting, revisión de SYSVOL y Group Policy
+        Preferences, análisis con BloodHound y validación de privilegios administrativos.
+      </p>
+
+      <div class="tags">
+        <span class="tag">Windows Server</span>
+        <span class="tag">Active Directory</span>
+        <span class="tag">LDAP</span>
+        <span class="tag">Kerberos</span>
+        <span class="tag">AS-REP Roasting</span>
+        <span class="tag">Kerberoasting</span>
+        <span class="tag">BloodHound</span>
+        <span class="tag">GPP</span>
+      </div>
+
+      <div class="meta">
+        Laboratorio autorizado · Informe público anonimizado
+      </div>
+
+      <div class="card-actions">
+        <a class="btn-writeup"
+           href="https://bestiaim.github.io/Pentest-AD-Laboratorio/">
+          Ver informe
+        </a>
+      </div>
+    </div>
+  </div>
+
+
   <div class="warning-box">
     <strong>Aviso de uso:</strong> todo el contenido publicado corresponde a laboratorios controlados,
     máquinas vulnerables académicas o entornos autorizados. No se debe aplicar ninguna técnica descrita
